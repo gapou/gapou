@@ -1,6 +1,6 @@
 # Greeting 👋, here is GP Cheung <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-![img](https://github.com/gapou/gapou/blob/master/Github.jpg)
+![img](https://github.com/gapou/gapou/blob/master/Github1.jpg)
 
 ## GP Cheung
 I'm GP Cheung, Charles from Hong Kong, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in original buildng. 
